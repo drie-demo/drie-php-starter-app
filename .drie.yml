@@ -1,2 +1,3 @@
 environment:
 - APP_KEY=base64:+CeiFIjG6oCLR/SiFHMUE4ZdUwvx3z5K6uppcqVg2nI=
+- MARTIN_IS=REALLY_COOL
